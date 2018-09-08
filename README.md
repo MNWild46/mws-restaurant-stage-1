@@ -1,6 +1,4 @@
-# Mobile Web Specialist Certification Course
----
-#### _Three Stage Course Material Project - Restaurant Reviews_
+# Front-End Web Design - Restaurant Stage 1
 
 ## Project Overview: Stage 1
 
